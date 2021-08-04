@@ -4,3 +4,5 @@ Las instrucciones mas detalladas estan en los archivos index.js de las carpetas 
 Los objetivos a cumplir son:
 
     -Desarrollar componente de contador y mascara
+
+    Alan
